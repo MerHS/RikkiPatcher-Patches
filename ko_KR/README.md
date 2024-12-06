@@ -1,13 +1,15 @@
 ## RikkiPatcher - ko_KR
+
 # 시이나 타키의 데카메론
 
 ## Progress
+
 - s51 (inspection all dialogues)
 - s52 (inspection all dialogues)
 - s60 (inspection all dialogues)
 
-
 ## Pass
+
 - s19 (no data)
 - s23 (no data)
 - s31 ~ 36 (no data)
@@ -15,6 +17,7 @@
 - s99 (no data)
 
 ## Complete
+
 - s1
 - s2
 - s3
@@ -104,3 +107,11 @@
 - s98
 - s100
 - s101
+
+## 교정/검수
+
+- s9
+- s10
+- s11
+- s12
+- s13
